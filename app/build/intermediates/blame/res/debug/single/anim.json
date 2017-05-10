@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\pos-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_right.xml",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\pos-master\\app\\src\\main\\res\\anim\\slide_out_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\pos-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_left.xml",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\pos-master\\app\\src\\main\\res\\anim\\slide_in_left.xml"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\pos-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\pos-master\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\pos-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\detail_menu.xml",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\pos-master\\app\\src\\main\\res\\menu\\detail_menu.xml"
+    }
+]
